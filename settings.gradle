@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Ibit CMT 7th Semester Class Routine'
